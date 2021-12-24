@@ -1,3 +1,3 @@
 # hello-world
-My first repository
+About me:
 YouTube channel: https://www.youtube.com/c/simonroy
